@@ -1,4 +1,5 @@
 #MiranKorkmaz {
+
     position: "Fullstack Developer Student";
     pitch: "A background of software engineering at the Royal Institute of Technology";
     initial-letter: "M";
