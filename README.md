@@ -6,5 +6,6 @@
         height: 165cm;
         width: undefined /* 😅 */; 
         speak: Swedish, English, Kurdish, JavaScript, Python, MongoDB, SQL;
+        currentFocus: "Mastering TypeScript";
         stress: 0;
     }
